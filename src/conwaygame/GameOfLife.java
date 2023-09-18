@@ -16,7 +16,7 @@ import java.util.ArrayList;
 public class GameOfLife {
 
     // Instance variables
-    private static final boolean ALIVE = true;
+    private static final boolean ALIVE = true;   //lmfaooo throwback
     private static final boolean DEAD = false;
 
     private boolean[][] grid;    // The board has the current generation of cells
